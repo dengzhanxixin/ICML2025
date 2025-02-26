@@ -314,7 +314,8 @@ ul.no-bullets {
   width: 100%;
   overflow: hidden;
   position: relative;
-  background: linear-gradient(0deg, #b69052 0%, #603001 100%);
+  /* background: linear-gradient(0deg, #b69052 0%, #603001 100%); */
+  background: linear-gradient(0deg, #313677 0%, #1655b3 100%);
   padding: 0;
 }
 #hero .carousel-container {
@@ -492,7 +493,8 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #ed3c0d;
+  /* background: #ed3c0d; */
+  background: #2750a7;
   margin: 4px 10px;
 }
 .section-title p {
